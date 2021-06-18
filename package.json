@@ -1,0 +1,16 @@
+{
+    "name": "log4js_app",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "log4js": "^6.3.0"
+    },
+    "repository": {},
+    "engines": {
+        "node": "10.x"
+    },
+    "devDependencies": {}
+}
